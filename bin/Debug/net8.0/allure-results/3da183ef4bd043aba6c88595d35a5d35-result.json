@@ -1,0 +1,51 @@
+{
+  "uuid": "7753a382-5c5a-4096-a178-5703f95c83b9",
+  "historyId": "8ddb343fb4eba39bae3760babe8231f8",
+  "testCaseId": "c8cc58fd4c386c6cbf411948be593f1a",
+  "fullName": "NunitTraning:NunitTraning.Seleniumc_.Fileupload.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#2"
+    },
+    {
+      "name": "host",
+      "value": "AUTO5VYNPUMKEQH"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitTraning.Seleniumc_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "Fileupload"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "75188fdc-061b-4f3e-b53b-991b75e21939-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734595550574,
+  "stop": 1734595574958
+}

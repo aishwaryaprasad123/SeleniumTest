@@ -1,0 +1,12 @@
+{
+  "uuid": "07aba614-9138-42d2-99c7-bdd42aab2887",
+  "name": "NunitTraning.Seleniumc_.MultiSelectCheckbox",
+  "children": [
+    "f7f5d348-547b-4a99-904c-bb2fd551c13c"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591148160,
+  "stop": 1734591162237
+}

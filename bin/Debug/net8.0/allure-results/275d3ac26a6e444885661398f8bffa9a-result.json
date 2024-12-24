@@ -1,0 +1,55 @@
+{
+  "uuid": "3ee400b4-65fa-4a5f-ba13-978fde3f2a2a",
+  "historyId": "c368579fd9eca45ac48856955be7e4a5",
+  "testCaseId": "618b5dd65eb259cb6fea94d8487b839c",
+  "fullName": "NunitTraning:NunitTraning.Seleniumc_.ParallelExcution.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#16"
+    },
+    {
+      "name": "host",
+      "value": "AUTO5VYNPUMKEQH"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitTraning.Seleniumc_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "ParallelExcution"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "139da98d-bce7-4697-8949-a4689db64e1f-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734592373013,
+  "stop": 1734592394615
+}

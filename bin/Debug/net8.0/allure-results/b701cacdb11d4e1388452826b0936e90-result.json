@@ -1,0 +1,56 @@
+{
+  "uuid": "42c64c3c-3e2c-4bf9-9bbf-8604e2ace2da",
+  "historyId": "77c6082417a76fb684c8ae03fa166c40",
+  "testCaseId": "f77f2e36a4089b22605e246ece104e90",
+  "fullName": "NunitTraning:NunitTraning.Seleniumc_.ParallelExcution.testcase2()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#2"
+    },
+    {
+      "name": "host",
+      "value": "AUTO5VYNPUMKEQH"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitTraning.Seleniumc_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase2"
+    },
+    {
+      "name": "testClass",
+      "value": "ParallelExcution"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase2",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.WebDriverException : Tried to run command without establishing a connection\r\nTearDown : System.ComponentModel.Win32Exception : Access is denied.",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.Click()\r\n   at NunitTraning.Seleniumc_.ParallelExcution.testcase2() in C:\\Users\\apras\\source\\repos\\NunitTraning\\NunitTraning\\Seleniumc#\\ParallelExcution.cs:line 76\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)\r\n--TearDown\r\n   at System.Diagnostics.Process.Kill()\r\n   at OpenQA.Selenium.DriverService.Stop()\r\n   at OpenQA.Selenium.DriverService.Dispose(Boolean disposing)\r\n   at OpenQA.Selenium.DriverService.Dispose()\r\n   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Dispose(Boolean disposing)\r\n   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Dispose()\r\n   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.ExecuteAsync(Command commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Dispose(Boolean disposing)\r\n   at OpenQA.Selenium.Firefox.FirefoxDriver.Dispose(Boolean disposing)\r\n   at OpenQA.Selenium.WebDriver.Dispose()\r\n   at OpenQA.Selenium.WebDriver.Quit()\r\n   at NunitTraning.Seleniumc_.ParallelExcution.Closebrowser() in C:\\Users\\apras\\source\\repos\\NunitTraning\\NunitTraning\\Seleniumc#\\ParallelExcution.cs:line 87\r\n   at InvokeStub_ParallelExcution.Closebrowser(Object, Object, IntPtr*)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734592724097,
+  "stop": 1734592749548
+}

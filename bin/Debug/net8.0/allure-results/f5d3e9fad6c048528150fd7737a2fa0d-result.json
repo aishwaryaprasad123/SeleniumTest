@@ -1,0 +1,49 @@
+{
+  "uuid": "2b24c5c1-ea10-43ec-85d7-d429d1813ed9",
+  "historyId": "594133fd5305a7b6bca51185a18b34df",
+  "testCaseId": "2c5ef8baa95f02cb95204f106cf3d2f2",
+  "fullName": "NunitTraning:NunitTraning.Seleniumc_.Orange.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#8"
+    },
+    {
+      "name": "host",
+      "value": "AUTO5VYNPUMKEQH"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitTraning.Seleniumc_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "Orange"
+    },
+    {
+      "name": "tag",
+      "value": "Sanity"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734595550574,
+  "stop": 1734595595607
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "97a1c193-2ba1-40bd-bb47-e0006c428914",
+  "name": "NunitTraning.Seleniumc_.Filedownload",
+  "children": [
+    "59922f4c-0059-4651-ae4e-9f1832167f84"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734595550561,
+  "stop": 1734595575737
+}

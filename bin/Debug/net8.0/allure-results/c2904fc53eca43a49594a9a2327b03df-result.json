@@ -1,0 +1,55 @@
+{
+  "uuid": "5d439c40-eef7-42f1-856f-27708e66385f",
+  "historyId": "908d45330d23f5bb3734dc0951d688d9",
+  "testCaseId": "e5047399de3ecdcd300724f763d90d4b",
+  "fullName": "NunitTraning:NunitTraning.Seleniumc_.WindowHandling.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTO5VYNPUMKEQH"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitTraning.Seleniumc_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "WindowHandling"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "2b57994d-3958-4bd4-809c-3650c56d19af-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734591186145,
+  "stop": 1734591207155
+}

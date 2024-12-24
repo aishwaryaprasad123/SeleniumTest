@@ -1,0 +1,56 @@
+{
+  "uuid": "f7f5d348-547b-4a99-904c-bb2fd551c13c",
+  "historyId": "e4cbe75d8dd1a7e3f27a4c4a42dc7ddb",
+  "testCaseId": "a416ab374f95ee5caf46d53ece19e7f5",
+  "fullName": "NunitTraning:NunitTraning.Seleniumc_.MultiSelectCheckbox.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTO5VYNPUMKEQH"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitTraning.Seleniumc_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "MultiSelectCheckbox"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.InvalidSelectorException : invalid selector\nfrom javascript error: {\"status\":32,\"value\":\"Unable to locate an element with the xpath expression //input[]2 because of the following error:\\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[]2' is not a valid XPath expression.\"}\n  (Session info: MicrosoftEdge=131.0.2903.99); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)\r\n   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)\r\n   at OpenQA.Selenium.By.FindElement(ISearchContext context)\r\n   at OpenQA.Selenium.WebDriver.FindElement(By by)\r\n   at NunitTraning.Seleniumc_.MultiSelectCheckbox.testcase1() in C:\\Users\\apras\\source\\repos\\NunitTraning\\NunitTraning\\Seleniumc#\\MultiSelectCheckbox.cs:line 43\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734591148161,
+  "stop": 1734591162224
+}

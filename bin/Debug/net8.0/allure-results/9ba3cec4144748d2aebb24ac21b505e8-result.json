@@ -1,0 +1,55 @@
+{
+  "uuid": "b65e2af5-8a2d-442d-bbb1-9ecea528b092",
+  "historyId": "70d4d5442d0a13c35c82a6dd90eddaa1",
+  "testCaseId": "5f930584f1760a26c07eb430fa702e22",
+  "fullName": "NunitTraning:NunitTraning.Seleniumc_.WebTableHandling.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTO5VYNPUMKEQH"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitTraning.Seleniumc_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "WebTableHandling"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "f5bb85ee-1f17-424f-9795-030efc666acf-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734591162244,
+  "stop": 1734591186140
+}

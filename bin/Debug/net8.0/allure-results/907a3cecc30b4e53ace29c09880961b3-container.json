@@ -1,0 +1,12 @@
+{
+  "uuid": "fa7cf196-2309-40f7-b441-e27d0d8524d5",
+  "name": "NunitTraning.Seleniumc_.WebTableHandling.testcase1",
+  "children": [
+    "b65e2af5-8a2d-442d-bbb1-9ecea528b092"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591162244,
+  "stop": 1734591186142
+}

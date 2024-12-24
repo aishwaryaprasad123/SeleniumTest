@@ -1,0 +1,12 @@
+{
+  "uuid": "322014e9-5132-4087-bac3-b8e25bd71ef4",
+  "name": "NunitTraning.Seleniumc_.Orange.testcase1",
+  "children": [
+    "6f938443-532f-4a84-9408-d85917667db8"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734605457563,
+  "stop": 1734605496034
+}

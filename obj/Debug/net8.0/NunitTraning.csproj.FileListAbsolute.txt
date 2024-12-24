@@ -1,0 +1,5 @@
+C:\Users\apras\source\repos\NunitTraning\NunitTraning\obj\Debug\net8.0\NunitTraning.csproj.AssemblyReference.cache
+C:\Users\apras\source\repos\NunitTraning\NunitTraning\obj\Debug\net8.0\NunitTraning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apras\source\repos\NunitTraning\NunitTraning\obj\Debug\net8.0\NunitTraning.AssemblyInfoInputs.cache
+C:\Users\apras\source\repos\NunitTraning\NunitTraning\obj\Debug\net8.0\NunitTraning.AssemblyInfo.cs
+C:\Users\apras\source\repos\NunitTraning\NunitTraning\obj\Debug\net8.0\NunitTraning.csproj.CoreCompileInputs.cache

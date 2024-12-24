@@ -1,0 +1,12 @@
+{
+  "uuid": "dabb8656-d183-4714-a0ae-db1cb546bc03",
+  "name": "NunitTraning.Seleniumc_.ParallelExcution.testcase1",
+  "children": [
+    "e77637f0-d91b-4593-879d-a378c83cae23"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734592724096,
+  "stop": 1734592749568
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "12d54548-be9c-44a7-bb47-33a87bbf8507",
+  "name": "NunitTraning.Seleniumc_.WindowHandling",
+  "children": [
+    "5d439c40-eef7-42f1-856f-27708e66385f"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591186144,
+  "stop": 1734591207158
+}
